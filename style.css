@@ -508,6 +508,11 @@ aside:hover .nav-item-name{
         width:100vw;
        
     }
+     aside:hover
+   {
+       width:60vh;
+    
+   }
     .items-container
     {
         display:flex;
@@ -550,11 +555,7 @@ aside:hover .nav-item-name{
     margin-left: 8rem;
     margin-left: 0;
 }
-.about-info
-{
-    height: 15rem;
-    width: 18rem; 
-}
+
 .img-sec
 {
     height:10rem;
@@ -618,7 +619,7 @@ aside:hover .nav-item-name{
 }
 .about-info
 {
-    height: 15rem;
+    height: 18rem;
     width: 18rem;
     font-size: 0.9rem;
     text-align:center;
